@@ -1,0 +1,7 @@
+# util.py
+# Edit for: Create Kafka consumer with manual commit strategy
+# Edit for: Polish README with tech stack and author info
+
+# Commit note: Add utility functions for JSONPath filters
+# Edit for: Create Kafka consumer with manual commit strategy
+# Edit for: Polish README with tech stack and author info

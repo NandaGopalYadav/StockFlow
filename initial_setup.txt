@@ -1,0 +1,13 @@
+Steps to launch and configure Kafka on AWS EC2...
+
+# Auto-edit for commit: Initialize project with EC2 Kafka setup
+
+# Auto-edit for commit: Initialize project with EC2 Kafka setup
+
+# Auto-edit for commit: Add S3 bucket setup instructions
+
+# Auto-edit for commit: Enhance initial_setup with Glue and Athena steps
+
+# Commit note: Initialize project with boilerplate structure
+
+# Commit note: Add error handling to consumer scripts
