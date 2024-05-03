@@ -11,3 +11,4 @@ Steps to launch and configure Kafka on AWS EC2...
 # Commit note: Initialize project with boilerplate structure
 
 # Commit note: Add error handling to consumer scripts
+# Edit: Set up Kafka producer logic
