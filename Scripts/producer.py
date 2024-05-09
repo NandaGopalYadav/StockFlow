@@ -7,3 +7,4 @@
 # Edit for: Implement core data streaming logic
 # Edit for: Update README with usage instructions
 # Edit for: Final review before GitHub release
+# Edit: Enhance error handling in consumer.py
