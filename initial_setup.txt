@@ -12,3 +12,4 @@ Steps to launch and configure Kafka on AWS EC2...
 
 # Commit note: Add error handling to consumer scripts
 # Edit: Set up Kafka producer logic
+# Edit: Improve docstrings across scripts
