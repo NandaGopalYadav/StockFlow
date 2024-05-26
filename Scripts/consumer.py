@@ -6,3 +6,4 @@
 # Edit for: Add Kafka producer simulation for stock prices
 # Edit for: Refactor consumer code for modularity
 # Edit: Add JSONPath utility script
+# Edit: Add MIT LICENSE file
