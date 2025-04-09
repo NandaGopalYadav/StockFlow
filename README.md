@@ -80,6 +80,3 @@ KafkaStockStreamer/
 
 This project is licensed under the [MIT License](LICENSE).
 
-# Edit: Initialize project with core structure
-# Edit: Write EC2 and Kafka deployment instructions
-# Edit: Final pre-deploy README polish
