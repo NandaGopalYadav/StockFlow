@@ -1,13 +1,13 @@
-# KafkaStockStreamer 🚀
+# StockFlow 🚀
 
 
-**KafkaStockStreamer** is a real-time stock market data simulation pipeline built using **Apache Kafka** and **Python**. It emulates a production-grade event streaming platform that can be used for learning, demonstrations, or building upon with real datasets.
+**StockFlow** is a real-time stock market data simulation pipeline built using **Apache Kafka** and **Python**. It emulates a production-grade event streaming platform that can be used for learning, demonstrations, or building upon with real datasets.
 
 ---
 
 ## 💡 Project Motivation
 
-In an era where data moves faster than ever, real-time streaming systems have become essential. KafkaStockStreamer was created as a foundational project for understanding and deploying scalable, event-driven architectures. This repository serves as a launchpad for real-time analytics, stock data simulation, and distributed stream processing.
+In an era where data moves faster than ever, real-time streaming systems have become essential. StockFlow was created as a foundational project for understanding and deploying scalable, event-driven architectures. This repository serves as a launchpad for real-time analytics, stock data simulation, and distributed stream processing.
 
 ---
 
@@ -52,7 +52,7 @@ You can also follow instructions in `initial_setup.txt` to configure Kafka on AW
 ## 📁 Project Structure
 
 ```
-KafkaStockStreamer/
+StockFlow/
 ├── Scripts/
 │   ├── producer_v2.py
 │   ├── consumer_v2.py
