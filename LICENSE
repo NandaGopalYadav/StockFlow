@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
-# Edit for: Set up README with initial project description
-# Edit for: Add diagram showing streaming pipeline
-# Edit for: Clean up project structure and remove junk files
-
-# Commit note: Add LICENSE file with open-source permissions
-
-# Commit note: Refactor producer to use command-line args
-# Edit for: Set up README with initial project description
-# Edit for: Add diagram showing streaming pipeline
-# Edit for: Clean up project structure and remove junk files
-# Edit: Add README with initial overview
-# Edit: Refactor producer for cleaner syntax
